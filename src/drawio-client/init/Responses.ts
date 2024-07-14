@@ -9,8 +9,8 @@ import darkCss from "inline!./src/assets/dark.css";
 //import stencils from "inline!./drawio/src/main/webapp/js/stencils.min.js";
 import stencils from "inline!./src/assets/shapes.js";
 
-//import extensions from "inline!./drawio/src/main/webapp/js/extensions.min.js";
-import extensions from "inline!./src/assets/extensions.js";
+import extensions from "inline!./drawio/src/main/webapp/js/extensions.min.js";
+// import extensions from "inline!./src/assets/extensions.js";
 
 //import shapes from "inline!./drawio/src/main/webapp/js/shapes-14-6-5.min.js";
 import shapes from "inline!./src/assets/shapes.js";
